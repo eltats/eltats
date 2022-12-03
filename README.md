@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @eltats
-- 👀 I’m interested in Golang
-- 🌱 I’m currently learning basic stuff (C, C++)
-
-<!---
-eltats/eltats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hello, I'm Eltats! 
+- I have experience & made projects with `C`, `C++`, `Python`, `Go`
+- Currently I'm mastering `Go` & `Backend development`
+- I'm open for the internship / job opportunities as a `backend developer`
+---
+### Contacts
+- Languages: English (C1), Russian (native)
+- TG: @eltats
+- Email: yuroff.aleksander@yandex.ru
